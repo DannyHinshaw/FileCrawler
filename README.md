@@ -5,16 +5,22 @@ FileCrawler offers a command line interface to do string search and replacing in
 Features
 
 ~ Compatible with OSX/Linux/Windows 7+
+
 ~ Terminal(Command line) Program
+
 ~ Simple input interface
+
 ~ Ability to specify files by extension, name or both
+
 ~ Handle regex for both search and replace
+
 ~ Search given directory recursively until all matching targets are found
- 
 
 Requirements
 
 ~ OSX, Linux, or Windows Operating Systems
+
 ~ Python 3.4.2 (NOTE: This is the version it was written in. I cannot speak for others, though it could most likely be altered to work in   previous versions)
+
 ~ A testing directory (Included, 'TestDir')
 
