@@ -1,6 +1,7 @@
 # FileCrawler
 
-FileCrawler offers a command line interface to do string search and replacing in specified directories for specified file names or all files with certain extensions. It also allows for the use of Regex for both search and is available for most OS's as long as they have the current version of Python installed.
+FileCrawler offers a command line interface to do string search and replacing in specified directories for specified file names or all files with certain extensions. It also allows for the use of Regex for searches and is works for most OS's as long as they have the current version of Python installed.
+
 
 Features
 
@@ -16,6 +17,7 @@ Features
 
 ~ Search given directory recursively until all matching targets are found
 
+
 Requirements
 
 ~ OSX, Linux, or Windows Operating Systems
@@ -24,3 +26,4 @@ Requirements
 
 ~ A testing directory (Included, 'TestDir')
 
+The tutorial for this script creation is available at nulleffort.com
